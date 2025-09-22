@@ -1,0 +1,9 @@
+{
+  "id": "password-vault",
+  "name": "Password Vault",
+  "version": "1.0.0",
+  "description": "Secure password management plugin",
+  "author": "Feat365 Community",
+  "feat365": true,
+  "minAppVersion": "0.15.0"
+}
