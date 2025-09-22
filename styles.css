@@ -1,0 +1,11 @@
+.password-vault-container {
+  padding: 10px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 5px;
+}
+
+.password-entry {
+  margin: 5px 0;
+  padding: 5px;
+  background: var(--background-secondary);
+}
